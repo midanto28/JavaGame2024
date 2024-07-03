@@ -1,0 +1,42 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IDE 관련 파일
+.idea/
+.metadata/
+
+# 빌드된 파일 및 폴더
+out/
+
+# 프로젝트 설정 파일
+*.iml
+
+# 기타 개발 환경 설정 파일 (예: Eclipse 설정 파일 등)
+# 추가적으로 제외할 파일이나 폴더가 있다면 여기에 추가합니다.
